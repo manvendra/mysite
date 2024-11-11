@@ -9,7 +9,6 @@
     grid-template-columns: repeat(16, 1fr);
     align-items: center;
     opacity: 95%;
-    background: var(--simple-card-background-color);
   }
   
   .home>header>.left {
